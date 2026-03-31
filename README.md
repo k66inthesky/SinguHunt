@@ -245,4 +245,6 @@ sui client publish --gas-budget 200000000
 
 ## License
 
-MIT
+Copyright (c) Eve U Luv Me. All rights reserved.
+
+This repository is proprietary and is not licensed under MIT.
